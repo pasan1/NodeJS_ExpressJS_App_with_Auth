@@ -13,7 +13,7 @@ This is a NodeJS ExpressJS App with Authentication. It uses PassportJS for authe
 
 ## Configuration
 
-You can configure the app by editing the `config.js` file.
+You can configure the app by editing the `.env` file.
 
 ## License
 
